@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Choudhary Muhammad Asif 👋,</h1>
-<h3 align="center"><h3 align="center">Fullstack developer | Javascript | AWS | NODEJS IS LOVE </h3></h3>
+<h3 align="center"><h3 align="center"> Javascript | AWS | NODEJS</h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chasif171&label=Profile%20views&color=0e75b6&style=flat" alt="chasif171" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chasif171" alt="chasif171" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **NODEJS**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Javascript(NODEJS)**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
-
-- 🤝 I’m looking for help with **System Design**
 
 - 👨‍💻 All of my projects are available at [ChAsif171](ChAsif171)
 
