@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Choudhary Muhammad Asif 👋,</h1>
-<h3 align="center"><h3 align="center"> Javascript | AWS |typescript | NODEJS</h3></h3>
+<h1 align="center">Hi, I'm Choudhary Asif 👋,</h1>
+<h3 align="center"><h3 align="center"> Javascript |typescript | NODEJS | AWS | MONGODB </h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chasif171&label=Profile%20views&color=0e75b6&style=flat" alt="chasif171" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ChAsif171](ChAsif171)
 
-- 💬 Ask me about **HTML,CSS,JS,React,Redux,Nodejs,Express,Mongodb**
+- 💬 Ask me about **HTML,JS,Nodejs,Express,Mongodb**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-asif-181544228**
 
